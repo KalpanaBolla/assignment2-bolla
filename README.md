@@ -33,3 +33,9 @@ I would like to recommond the above  countries
 | UK | bbb | 7 |
 | AUSTRALIA | ccc | 8 |
 
+
+---
+# Funny Quotes
+>1.Writing is easy. All you have to do is cross out the wrong words*MARK TWAIN
+>2.The purpose of our lives is to be happy*DALAI LAMA
+
