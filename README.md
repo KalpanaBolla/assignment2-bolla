@@ -18,3 +18,18 @@ Northwest Team
     * KS
 
 **[Link to my photo](AboutMe.md)
+
+---
+# Countries I would Recommend
+INDIA
+USA
+UK
+AUSTRALIA
+I would like to recommond the above  countries
+| Country | Reason | No.of Days |
+| --- | --- | --- |
+| India | aaaa | 10 |
+| USA | abc | 15 |
+| UK | bbb | 7 |
+| AUSTRALIA | ccc | 8 |
+
