@@ -40,3 +40,27 @@ I would like to recommond the above  countries
 
 > 2.The purpose of our lives is to be happy-*DALAI LAMA*
 
+---
+# Code Fencing
+---
+> Google <https://www.google.com>
+```
+
+$o-grid-default-config: (
+    columns: 12,
+    gutter: 10px,
+    min-width: 240px,
+    max-width: 1330px,
+    layouts: (
+        S:  370px,  // ≥20px columns
+        M:  610px,  // ≥40px columns
+        L:  850px,  // ≥60px columns
+        XL: 1090px  // ≥80px columns
+    ),
+    fluid: true,
+    debug: false,
+    fixed-layout: M,
+    enhanced-experience: true
+);
+```
+Code link<https://css-tricks.com/snippets/sass/deep-getset-maps/>
