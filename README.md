@@ -37,6 +37,6 @@ I would like to recommond the above  countries
 ---
 # Funny Quotes
 > 1.Writing is easy. All you have to do is cross out the wrong words-*MARK TWAIN*
----
+
 > 2.The purpose of our lives is to be happy-*DALAI LAMA*
 
