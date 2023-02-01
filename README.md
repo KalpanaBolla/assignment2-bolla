@@ -43,7 +43,7 @@ I would like to recommond the above  countries
 ---
 # Code Fencing
 ---
-> Google <https://www.google.com>
+> Sass Variable in CSS calc() function<https://stackoverflow.com/questions/17982111/sass-variable-in-css-calc-function/20236515#20236515>
 ```
 
 $o-grid-default-config: (
